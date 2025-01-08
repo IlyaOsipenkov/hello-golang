@@ -11,5 +11,3 @@ func TestHello(t *testing.T) {
 		t.Fatalf("want %s, got %s\n", want, got)
 	}
 }
-
-//test
